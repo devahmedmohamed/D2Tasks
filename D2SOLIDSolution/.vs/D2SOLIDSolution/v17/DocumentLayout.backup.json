@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI\\SOLID\\Labs\\Lab 2\\D2SOLIDSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{076F7CEE-E313-4425-B2C9-5029949A6008}|D2Tasks\\D2Tasks.csproj|d:\\iti\\solid\\labs\\lab 2\\d2solidsolution\\d2tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076F7CEE-E313-4425-B2C9-5029949A6008}|D2Tasks\\D2Tasks.csproj|solutionrelative:d2tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076F7CEE-E313-4425-B2C9-5029949A6008}|D2Tasks\\D2Tasks.csproj|d:\\iti\\solid\\labs\\lab 2\\d2solidsolution\\d2tasks\\task 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076F7CEE-E313-4425-B2C9-5029949A6008}|D2Tasks\\D2Tasks.csproj|solutionrelative:d2tasks\\task 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task 1.cs",
+              "DocumentMoniker": "D:\\ITI\\SOLID\\Labs\\Lab 2\\D2SOLIDSolution\\D2Tasks\\Task 1.cs",
+              "RelativeDocumentMoniker": "D2Tasks\\Task 1.cs",
+              "ToolTip": "D:\\ITI\\SOLID\\Labs\\Lab 2\\D2SOLIDSolution\\D2Tasks\\Task 1.cs",
+              "RelativeToolTip": "D2Tasks\\Task 1.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAA5wF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T05:30:56.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI\\SOLID\\Labs\\Lab 2\\D2SOLIDSolution\\D2Tasks\\Program.cs",
+              "RelativeDocumentMoniker": "D2Tasks\\Program.cs",
+              "ToolTip": "D:\\ITI\\SOLID\\Labs\\Lab 2\\D2SOLIDSolution\\D2Tasks\\Program.cs*",
+              "RelativeToolTip": "D2Tasks\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T05:30:44.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

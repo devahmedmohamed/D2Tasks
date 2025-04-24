@@ -1,0 +1,14 @@
+D:\ITI\SOLID\Labs\Lab 2\D2SOLIDSolution\D2Tasks\bin\Debug\net9.0\D2Tasks.exe
+D:\ITI\SOLID\Labs\Lab 2\D2SOLIDSolution\D2Tasks\bin\Debug\net9.0\D2Tasks.deps.json
+D:\ITI\SOLID\Labs\Lab 2\D2SOLIDSolution\D2Tasks\bin\Debug\net9.0\D2Tasks.runtimeconfig.json
+D:\ITI\SOLID\Labs\Lab 2\D2SOLIDSolution\D2Tasks\bin\Debug\net9.0\D2Tasks.dll
+D:\ITI\SOLID\Labs\Lab 2\D2SOLIDSolution\D2Tasks\bin\Debug\net9.0\D2Tasks.pdb
+D:\ITI\SOLID\Labs\Lab 2\D2SOLIDSolution\D2Tasks\obj\Debug\net9.0\D2Tasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\SOLID\Labs\Lab 2\D2SOLIDSolution\D2Tasks\obj\Debug\net9.0\D2Tasks.AssemblyInfoInputs.cache
+D:\ITI\SOLID\Labs\Lab 2\D2SOLIDSolution\D2Tasks\obj\Debug\net9.0\D2Tasks.AssemblyInfo.cs
+D:\ITI\SOLID\Labs\Lab 2\D2SOLIDSolution\D2Tasks\obj\Debug\net9.0\D2Tasks.csproj.CoreCompileInputs.cache
+D:\ITI\SOLID\Labs\Lab 2\D2SOLIDSolution\D2Tasks\obj\Debug\net9.0\D2Tasks.dll
+D:\ITI\SOLID\Labs\Lab 2\D2SOLIDSolution\D2Tasks\obj\Debug\net9.0\refint\D2Tasks.dll
+D:\ITI\SOLID\Labs\Lab 2\D2SOLIDSolution\D2Tasks\obj\Debug\net9.0\D2Tasks.pdb
+D:\ITI\SOLID\Labs\Lab 2\D2SOLIDSolution\D2Tasks\obj\Debug\net9.0\D2Tasks.genruntimeconfig.cache
+D:\ITI\SOLID\Labs\Lab 2\D2SOLIDSolution\D2Tasks\obj\Debug\net9.0\ref\D2Tasks.dll
